@@ -1,5 +1,4 @@
 from uhashring import HashRing
-
 from .choices import EventPartition
 
 
